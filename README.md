@@ -1,16 +1,16 @@
-### Hi there 👋
+# Prazer, Eufranor Filho! 👋
 
-<!--
-**eufranorfilho/eufranorfilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+💻 Desenvolvedor Fullstack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🎓 Estudo Desenvolvimento de Software com Foco em Java/Back-End.
+
+👩‍💻 Tenho experiência com marketing digital, branding e vendas... Pois, já tive empresa e trabalhei um tempo nessas areas.
+
+#### Mais focado em:
+
+<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />  <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />  <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+          
+          
+          
