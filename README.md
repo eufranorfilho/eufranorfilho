@@ -1,7 +1,5 @@
 # Prazer, Eufranor Filho! 👋
 
-## Sobre mim
-
 💻 Desenvolvedor Fullstack
 
  🎓 Estudo Desenvolvimento de Software com Foco em Java/Back-End.
