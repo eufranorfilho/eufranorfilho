@@ -18,7 +18,7 @@
           
 
 ### Entre em contato comigo clicando abaixo:
-<a href=""><img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" /></a>         
+<a href="https://br.linkedin.com/in/eufranor-filho-10468b153"><img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" /></a>         
           
           
           
