@@ -1,6 +1,6 @@
 # Hellow, World! 👋
 
-💻 Desenvolvedor de Software
+💻 Desenvolvedor de Software.
 
  🎓 Estudo Desenvolvimento de Software com foco em Back-End.
 
