@@ -1,4 +1,4 @@
-# Hellow, World! 👋
+# Hello, World! 👋
 
 💻 Desenvolvedor de Software.
 
